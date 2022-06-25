@@ -25,7 +25,7 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706168.m3u8
 
 
-#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png",TV9
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 
@@ -49,8 +49,8 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528649.m3u8
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528650.m3u8
 
 
-#EXTINF:-1 tvg-id="tvmalaysia.online" tvg-name="AstroCeria" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b8bfc70-f676-11eb-969f-a16188069736/1944541/350014641.png",AstrokCeria
-https://www.tvmalaysia.online/2021/06/ceria.html?m=1
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="AstrokCeria" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b8bfc70-f676-11eb-969f-a16188069736/1944541/350014641.png",AstrokCeria
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
 
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="Dreamwork HD" tvg-logo="https://itsmiyagi.site:443/images/a2eafa3c80163c811a9e3db8aa3dcea2.png",Dreamwork HD
@@ -77,5 +77,4 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
 
-#EXTINF:-1 tvg-id="tvmalaysia.online" tvg-name="HBO HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/378196b0-5708-11ec-bbed-bf3f2aea144b/2537526/444386218.jpeg"
-https://www.tvmalaysia.online/2021/06/hbo.html?m=1
+
