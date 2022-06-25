@@ -25,7 +25,7 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706168.m3u8
 
 
-#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png",TV9
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png",TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 
