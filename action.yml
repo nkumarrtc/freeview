@@ -1,2 +1,4 @@
 - name: GitHub GraphQL API Query
   uses: octokit/graphql-action@v2.2.1
+- name: GitHub GraphQL Action
+  uses: helaili/github-graphql-action@2.0.1
