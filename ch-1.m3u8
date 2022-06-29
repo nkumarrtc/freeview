@@ -9,19 +9,19 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
+#EXTINF:-1 tvg-id="103" tvg-name="TV3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
-#EXTINF:-1 tvg-chno="4" tvg-id="tv3.my" tvg-name="TV3 HD" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",TV3 HD
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",TV3
 https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706164.m3u8
 
 
-#EXTINF:-1 tvg-chno="6" tvg-id="1295" tvg-name="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
+#EXTINF:-1 tvg-id="1295" tvg-name="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 
-#EXTINF:-1 tvg-chno="7" tvg-id="NTV7" tvg-name="NTV7/DIDIKTV" tvg-logo="https://i.imgur.com/uKN1okT.png",NTV7/DIDIKTV
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7/DIDIKTV" tvg-logo="https://i.imgur.com/uKN1okT.png",NTV7/DIDIKTV
 https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706168.m3u8
 
 
@@ -29,7 +29,7 @@ https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706168.m3u8
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 
-#EXTINF:-1 tvg-chno="5" tvg-id="105" tvg-name="DRAMA SANGAT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png",DRAMA SANGAT
+#EXTINF:-1 tvg-id="105" tvg-name="DRAMA SANGAT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png",DRAMA SANGAT
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142509.m3u8
 
 
@@ -37,7 +37,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142509.m3u8
 https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706173.m3u8
 
 
-#EXTINF:-1 tvg-chno="10" tvg-id="123" tvg-name="Awesome TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",Awesome TV
+#EXTINF:-1 tvg-id="123" tvg-name="Awesome TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",Awesome TV
 https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706165.m3u8
 
 
@@ -49,7 +49,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528649.m3u8
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/563528650.m3u8
 
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="AstrokCeria" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b8bfc70-f676-11eb-969f-a16188069736/1944541/350014641.png",AstrokCeria
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b8bfc70-f676-11eb-969f-a16188069736/1944541/350014641.png",AstrokCeria
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8
 
 
