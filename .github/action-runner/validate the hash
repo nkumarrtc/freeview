@@ -1,1 +1,1 @@
-if((Get-FileHash -Path actions-runner-win-x64-2.293.0.zip -Algorithm SHA256).Hash.ToUpper() -ne 'ae421f582b08cd7f8521c46991fc80685b643402fe3822eae2da23430819fb8b'.ToUpper()){ throw 'Computed checksum did not match' }
+((Get-FileHash -Path actions-runner-win-x64-2.293.0.zip -Algorithm SHA256).Hash.ToUpper() -ne 'ae421f582b08cd7f8521c46991fc80685b643402fe3822eae2da23430819fb8b'.ToUpper()){ throw 'Computed checksum did not match' }
