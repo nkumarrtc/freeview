@@ -1,5 +1,5 @@
 {
-  "files": ["channels/*.m3u"],
+  "files": ["/*.m3u"],
   "rules": {
     "no-empty-lines": true,
     "require-header": true,
