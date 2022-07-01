@@ -32,4 +32,4 @@ function content(filepath) {
     .map(l => {
       return JSON.parse(l)
     })
-}
+})
