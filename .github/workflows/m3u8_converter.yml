@@ -2,7 +2,7 @@ name: M3U8_Creator
 
 on:
   workflow_dispatch:
-  # Run every 2 hours after https://github.com/bitsbb01/iptvcat-scrapper
+  # Run every 2 hours after https://raw.githubusercontent.com/MIFNtechnology/freeview/cc8f75b244b7a90e14bea078fb305570c86d6d70/.github/workflows/m3u8_converter.yml
 
  
   schedule:
