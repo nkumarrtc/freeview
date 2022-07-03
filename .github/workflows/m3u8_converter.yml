@@ -3,8 +3,8 @@ name: M3U8_Creator
 on:
   workflow_dispatch:
   # Run every 2 hours after https://github.com/bitsbb01/iptvcat-scrapper
-  # 12.10 UTC Time, 06.10 Central Time
-  # Changed to every 2 hours, due to including Youtube links and Pluto, so those links are always correct and the playlist is always upto date.
+
+ 
   schedule:
     - cron: "0 0/2 * * *"
 
