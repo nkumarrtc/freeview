@@ -39,3 +39,4 @@ function content(filepath) {
     encoding: 'utf8'
   })
 }
+}
