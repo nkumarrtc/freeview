@@ -1,5 +1,5 @@
 {
-  "name": "iptv",
+  "name": "freeview",
   "scripts": {
     "act:auto-update": "act workflow_dispatch -W .github/workflows/auto-update.yml --artifact-server-path=.artifacts",
     "act:check": "act pull_request -W .github/workflows/check.yml",
