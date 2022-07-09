@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=   tvg-name=  tvg-logo=
+#EXTINF:-1 tvg-id="123" tvg-name="Awesome tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png"
 https://www.tvmalaysia.online/2021/06/awesome.html?m=1
