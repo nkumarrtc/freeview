@@ -1,5 +1,5 @@
 {
-  "name": "freeview",
+  "name": "MIFNtechnology/freeview/ch-1.m3u",
   "scripts": {
     "act:auto-update": "act workflow_dispatch -W .github/workflows/auto-update.yml --artifact-server-path=.artifacts",
     "act:check": "act pull_request -W .github/workflows/check.yml",
