@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# MIFNtv/freeview
 
 You can use the [editor on GitHub](https://github.com/MIFNtechnology/freeview/edit/freeview/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,11 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# MIFNtv/freeview
+## siaran iptv percuma(bukan utk tujuan jualan!!)
 
-- Bulleted
+### salin dan tampal link dibawah pd aplikasi iptv
+
+- [Link](`https://mifntechnology.github.io/freeview/ch-1.m3u`)
 - List
 
 1. Numbered
