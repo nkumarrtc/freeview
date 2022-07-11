@@ -28,7 +28,7 @@
   "license": "MIT",
   "dependencies": {
     "@alex_neo/jest-expect-message": "^1.0.5",
-    "chalk": "^4.1.2",
+    "chalk": "^5.0.1",
     "commander": "^8.3.0",
     "dayjs": "^1.10.7",
     "fs-extra": "^10.0.0",
