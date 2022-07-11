@@ -1,5 +1,5 @@
 {
-  "files": ["freeview/ch-1.m3u"],
+  "files": ["freeview/*.m3u"],
   "rules": {
     "no-empty-lines": true,
     "require-header": true,
