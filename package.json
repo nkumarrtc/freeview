@@ -34,7 +34,7 @@
     "fs-extra": "^10.0.0",
     "iptv-checker": "^0.22.0",
     "iptv-playlist-parser": "^0.11.0",
-    "jest": "^27.5.1",
+    "jest": "^28.1.2",
     "jest-expect-message": "^1.0.2",
     "lodash": "^4.17.21",
     "m3u-linter": "^0.3.0",
