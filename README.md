@@ -1,6 +1,6 @@
 # selamat datang ke laman ejunds 
-- > ## "https://ejunds.github.io"
-## mifn-tV
+- > ## "https://mifntechnology.github.io"
+## MIFNtechnology/freeview
 - `saluran iptv ini adalah percuma`
 - `saluran halaman iptv ini dibina oleh ejunds/mifnTv.`
    > ### membina halaman melalui github.com 
@@ -8,7 +8,7 @@
   
 ## cara-guna
 - salin & tampal 'url link' pada aplikasi iptv.
-- `https://ejunds.github.io/mifn-tV/mifn.m3u`
+- `https://mifntechnology.github.io/freeview/ch-1m3u`
 
 
 ### terima kasih kpd "https://github.com"
