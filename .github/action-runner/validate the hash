@@ -1,1 +1,2 @@
-((Get-FileHash -Path actions-runner-win-x64-2.293.0.zip -Algorithm SHA256).Hash.ToUpper() -ne 'ae421f582b08cd7f8521c46991fc80685b643402fe3822eae2da23430819fb8b'.ToUpper()){ throw 'Computed checksum did not match' }
+$ ((Get-FileHash -Path actions-runner-win-x64-2.293.0.zip -Algorithm SHA256).Hash.ToUpper() -ne 'ae421f582b08cd7f8521c46991fc80685b643402fe3822eae2da23430819fb8b'.ToUpper()){ throw 'Computed checksum did not match' }
+$ echo "a19a09f4eda5716e5d48ba86b6b78fc014880c5619b9dba4a059eaf65e131780  actions-runner-linux-x64-2.294.0.tar.gz" | shasum -a 256 -c
