@@ -24,4 +24,4 @@ updates:
     schedule:
       interval: "daily"
     # Disable rebasing for npm pull requests
-    rebase-strategy: "enable"
+    rebase-strategy: "disebal"
