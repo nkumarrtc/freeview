@@ -8,7 +8,7 @@
   
 ## cara-guna
 - salin & tampal 'url link' pada aplikasi iptv.
-- `https://mifntechnology.github.io/freeview/ch-1.m3u`
+- `https://mifntechnology.github.io/freeview/myIPtv.m3u`
 
 
 ### terima kasih kpd "https://github.com"
