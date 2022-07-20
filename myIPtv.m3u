@@ -9,11 +9,14 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png",TV3
 https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706164.m3u8
 
-#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png" group-title="MYTV Broadcasting: TV",TV3
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3 HD" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" TV3 HD
+https://m3u-editor.com/live/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142507.m3u8
 
 #EXTINF:-1 tvg-id="105" tvg-name="DRAMA SANGAT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png",DRAMA SANGAT
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142509.m3u8
+
+#EXTINF:-1 tvg-id="123" tvg-name="AWESOME TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" AWESOME TV
+https://m3u-editor.com/live/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142508.m3u8
 
 #EXTINF:-1 tvg-id="1295" tvg-name="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814",TV6
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
@@ -46,9 +49,9 @@ https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_7284c6607dcb11e
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
 
 #EXTINF:-1 tvg-id="121" tvg-name="Bernama" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" Bernama
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+https://m3u-editor.com/live/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142520.m3u8
 
-#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png" group-title="MYTV Broadcasting: TV",TVS
+#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png" TVS
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
 
