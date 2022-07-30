@@ -1,0 +1,67 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="(no group)",TV1 HD
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+#EXTINF:-1 tvg-id="102" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="(no group)",TV2 HD
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV3" tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="(no group)",TV3
+https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706164.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png" group-title="(no group)",TV3
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="DRAMA SANGAT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="(no group)",DRAMA SANGAT
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142509.m3u8
+#EXTINF:-1 tvg-id="123" tvg-name="AWESOME TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="(no group)",AWESOME TV
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142667.m3u8
+#EXTINF:-1 tvg-id="1295" tvg-name="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest?cb=20210327202814" group-title="(no group)",TV6
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7/DIDIKTV" tvg-logo="https://i.imgur.com/uKN1okT.png" group-title="(no group)",NTV7/DIDIKTV
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="8TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png" group-title="(no group)",8TV
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv|Referer=https://www.dailymotion.com
+#EXTINF:-1 tvg-id="149" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TV9_2021.png/200px-TV9_2021.png" group-title="(no group)",TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IKIM" tvg-logo="https://m3u-editor.com/storage/channel-logos/378196b0-5708-11ec-bbed-bf3f2aea144b/2537521/444386075.jpg" group-title="(no group)",IKIM
+https://m3u-editor.com:443/live/jaewwfdv/i9u7yfqq/549706173.m3u8
+#EXTINF:-1 tvg-id="002" tvg-name="SUKAN RTM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Player%20Logo%20-%20SUKAN%20RTM_NEW.jpg" group-title="(no group)",SUKAN RTM
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+#EXTINF:-1 tvg-id="001" tvg-name="BES RTM" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="(no group)",BES RTM
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+#EXTINF:-1 tvg-id="146" tvg-name="TV Okey" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="(no group)",TV Okey
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+#EXTINF:-1 tvg-id="114" tvg-name="TV Alhijrah" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/114.png" group-title="(no group)",TV Alhijrah
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_7284c6607dcb11ec8005ad1f1e0e9f60/index.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="Suke TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/SUKE_TV_Logo.png/revision/latest/scale-to-width-down/300" group-title="(no group)",Suke TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzh6SMSWad2934rgoq_cNkg/live
+#EXTINF:-1 tvg-id="121" tvg-name="Bernama" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png" group-title="(no group)",Bernama
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142520.m3u8
+#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png" group-title="MYTV Broadcasting: TV",TVS
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
+#EXTINF:-1 tvg-id="701" tvg-name="Nasional FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIONASIONALLOGO170X96.png" group-title="MYTV Broadcasting: Radio",Nasional FM
+https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017.m3u8
+#EXTINF:-1 tvg-id="702" tvg-name="Traxx FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/RADIOlogoradiotraxxfm.png" group-title="MYTV Broadcasting: Radio",Traxx FM
+https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
+#EXTINF:-1 tvg-id="703" tvg-name="Minnal FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIMINNALLOGO170X96.png" group-title="MYTV Broadcasting: Radio",Minnal FM
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
+#EXTINF:-1 tvg-id="704" tvg-name="Ai FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOAIFMLOGO170X96.png" group-title="MYTV Broadcasting: Radio",Ai FM
+https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
+#EXTINF:-1 tvg-id="705" tvg-name="Radio Klasik" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOKLASIKLOGO170X96.png" group-title="MYTV Broadcasting: Radio",Radio Klasik
+https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016.m3u8
+#EXTINF:-1 tvg-id="706" tvg-name="Asyik FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/radioRADIOASYIKFMLOGO170X96.png" group-title="MYTV Broadcasting: Radio",Asyik FM
+https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
+#EXTINF:-1 tvg-id="707" tvg-name="Sabah FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahFM-New.jpg" group-title="MYTV Broadcasting: Radio",Sabah FM
+https://sabahfmmobile.secureswiftcontent.com/rtm-ch049/rtm-ch049/playlist.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="Sabah VFM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SabahVFM-New.jpg" group-title="MYTV Broadcasting: Radio",Sabah VFM
+https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
+#EXTINF:-1 tvg-id="709" tvg-name="Sarawak FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-SarawakFM-New.jpg" group-title="MYTV Broadcasting: Radio",Sarawak FM
+https://sarawakfmmobile.secureswiftcontent.com/rtm-ch044/rtm-ch044/playlist.m3u8
+#EXTINF:-1 tvg-id="710" tvg-name="Wai FM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Small-WaiFM-New.jpg" group-title="MYTV Broadcasting: Radio",Wai FM
+https://waifmi.secureswiftcontent.com/rtm-ch025/rtm-ch025/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hot FM" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_hotfm_master.png" group-title="MYTV Broadcasting: Radio",Hot FM
+https://mediaprima.rastream.com/mediaprima-hotfm
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Buletin FM" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_buletinfm_master.png" group-title="MYTV Broadcasting: Radio",Buletin FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fly FM" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_flyfm_master.png" group-title="MYTV Broadcasting: Radio",Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="8FM" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2021/08/logo_8fm_master.png" group-title="MYTV Broadcasting: Radio",8FM
+https://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Molek FM" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2022/01/logo_molekfm_master.png" group-title="MYTV Broadcasting: Radio",Molek FM
+https://mediaprima.rastream.com/mediaprima-molekfm
