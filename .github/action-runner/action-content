@@ -1,2 +1,2 @@
-run> https://raw.githubusercontent.com/MIFNtechnology/freeview/mifnTv/ch-1.m3u
-run> https://raw.githubusercontent.com/MIFNtechnology/freeview/77d9a15e9bb04abb1a7274b69a14468f7f1faf84/.github/action-runner/Rest%20api.cmd
+$ run> : "https://raw.githubusercontent.com/MIFNtechnology/freeview/mifnTv/myIPtv.m3u"
+$ run> ; https://raw.githubusercontent.com/MIFNtechnology/freeview/77d9a15e9bb04abb1a7274b69a14468f7f1faf84/.github/action-runner/Rest%20api.cmd
